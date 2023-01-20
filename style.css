@@ -8,7 +8,7 @@ body{
 }
 
 .container {
-  height: 95vh;
+  height: 90vh;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -81,8 +81,8 @@ p {
   }
 
   .containerForm{
-    width: 600px;
-    height: 550px;
+    width: 580px;
+    height: 560px;
   }
 
   p {
